@@ -27,7 +27,7 @@ def skill_find( custom_skill_set ):
 w2v_model = gensim.models.Word2Vec.load( 'my_model.word2vec' )
 
 skill_set = [ 'dataiku'   , 'python', 'matplotlib', 'sql',
-			  'pandas'    , 'numpy' , 'shiny'     , 'r'  ,
+              'pandas'    , 'numpy' , 'shiny'     , 'r'  ,
               'regression', 'lasso' , 'ridge'     , 'pca', 
               'mongodb'   , 'bash'  , 'aws'       ,
               'forest'    , 'knn'   , 'tableau'   , 
