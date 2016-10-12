@@ -1,5 +1,6 @@
 # JobSearchBoost
 Use web scraping techniques and text analytics to help your job searching
+Tools/packages used: Bash Script, Python (Beautiful Soup, Request, Gensim), R (ggplot, data.table)
 
 This repository stores all the source code used for my Web Scraping project http://blog.nycdatascience.com/student-works/use-data-science-to-boost-your-job-hunting/
 
