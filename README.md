@@ -1,12 +1,14 @@
 # JobSearchBoost
 Use web scraping techniques and text analytics to help your job searching
 
+This repository stores all the source code used for my Web Scraping project <a href="http://blog.nycdatascience.com/student-works/use-data-science-to-boost-your-job-hunting/">Use Data Science to Boost Your Job Hunting</a>
+
 __Tools/packages used__: 
 - Bash Script
 - Python (Beautiful Soup, Request, Gensim)
 - R (ggplot, data.table)
 
-This repository stores all the source code used for my Web Scraping project http://blog.nycdatascience.com/student-works/use-data-science-to-boost-your-job-hunting/
+
 
 If you do not wish to collect data yourself, please feel free to use __unique_jobs.csv__ for your analysis. This file contains 2500+ job postings scraped from LinkedIn job listing.
 __Please note that Job IDs are not unique since different search terms may return same job postings__
